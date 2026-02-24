@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @arshadCoder11
 - 👀 I'm Technical Architect | Frontend | GCP
-- 🌱 I’m currently learning React Hooks
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arshadhsyed@duck.com
 
 <!---
